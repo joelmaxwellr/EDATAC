@@ -1,0 +1,23 @@
+body{
+    background: #141414;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.posters{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+    text-align: center;
+
+    
+    
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 2em;
+    
+    
+}
+
